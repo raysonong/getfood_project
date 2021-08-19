@@ -2,4 +2,4 @@
 
 ## About
 
-This is a food delivery mobile application developed using Flutter.
+This is a food delivery android application developed using Flutter.
