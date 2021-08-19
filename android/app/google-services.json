@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743443938477",
+    "project_id": "getfood-616ac",
+    "storage_bucket": "getfood-616ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743443938477:android:99218789a5e8c9491c9a24",
+        "android_client_info": {
+          "package_name": "com.raysonapp.getfood_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743443938477-r44ntgr51ekrkfdpamqier3cebaq0vj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuZaRu5IsJn6M1Tj55K6iFpVfErgRQo0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743443938477-r44ntgr51ekrkfdpamqier3cebaq0vj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
